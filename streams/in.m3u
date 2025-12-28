@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4TVNews.in@SD",4TV News (576p)
+https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 tvg-id="6TVTelugu.in@SD",6 TV Telugu (720p)
+https://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD",9x Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD",9X Tashan
@@ -9,12 +17,31 @@ https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="10TV.in@SD",10 TV (720p)
+https://cdn-1.pishow.tv/live/391/master.m3u8
+#EXTINF:-1 tvg-id="99TV.in@SD",99TV (720p)
+https://cdn-1.pishow.tv/live/1211/master.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@SD",&flix (1080p)
+http://66.102.120.18:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@SD",&flix (480p)
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures (1080p)
 http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD",&prive HD (1080p)
+http://163.61.227.29:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="AndxplorHD.in@SD",&xplor HD (1080p)
+http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (404p)
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak
+https://live.dinesh29.com.np/stream/jiotvplus/aajtak/master.m3u8
 #EXTINF:-1 tvg-id="AakaashAath.in@SD",Aakaash Aath (720p)
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD",Aamar Bangla (720p)
@@ -41,6 +68,8 @@ https://cdn-1.pishow.tv/live/407/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
 #EXTINF:-1 tvg-id="ABPAsmita.in@SD",ABP Asmita (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8
+#EXTINF:-1 tvg-id="ABPGanga.in@SD",ABP Ganga (1080p)
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
 #EXTINF:-1 tvg-id="ABPGanga.in@SD",ABP Ganga (1080p)
 #EXTVLCOPT:http-referrer=https://distro.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
@@ -1264,5 +1293,4 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p)
 #EXTVLCOPT:http-referrer=https://oxolive.com/
 https://fucking-tv-ott.keralive.workers.dev/mumt03/7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="TamilJanam.in@SD",Tamil Janam (720p)
-https://app.ashokadigital.net/app/324ea1b0/index.m3u8
+
