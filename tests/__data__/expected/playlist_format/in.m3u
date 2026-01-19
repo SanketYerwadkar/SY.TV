@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="StarSportsHindiHD.in" tvg-name="Star Sports Hindi HD" tvg-logo="https://i.imgur.com/star-sports-hindi-hd.png" group-title="Sports",Star Sports Hindi HD
+#EXTVLCOPT:http-referrer=https://www.hotstar.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://example.com/stream/star-sports-hindi-hd.m3u8
+
 #EXTINF:-1 tvg-id="",Manorama News -2 [U3] (480p) [Geo-blocked] [Not 24/7]
 #EXTVLCOPT:http-referrer=http://test.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
