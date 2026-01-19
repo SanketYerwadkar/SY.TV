@@ -58,6 +58,8 @@ http://163.61.227.29:8000/play/a04f/index.m3u8
 https://epiconvh.akamaized.net/live/ishaara/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in@SD",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD
+http://208.86.19.13:81/7022.stream/index.m3u8
 
 # --- MOVIES ---
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD",Zee Cinema
